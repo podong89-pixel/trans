@@ -1,0 +1,10 @@
+# 라이트/다크 테마를 각각 지정해야 OS·브라우저 설정에 따라 자동 전환됩니다.
+# (최상위 [theme]에 값을 넣으면 라이트 테마로 고정됩니다.)
+[theme.light]
+primaryColor = "#3b6fe0"
+
+[theme.dark]
+primaryColor = "#5b8cff"
+
+[browser]
+gatherUsageStats = false
